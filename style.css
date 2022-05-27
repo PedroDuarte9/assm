@@ -1,0 +1,46 @@
+
+.titulo-principal{
+    background: orange;
+    text-align: center;
+    
+    
+    
+}
+.titulo-principal-divisão{
+
+   
+   
+    
+}
+.nav-principal{
+    border: 1px solid red;
+    padding: 10px;
+    text-align: center;
+    border-radius: 25px;
+    
+
+}
+
+
+.elementos-nav{
+    padding: 10px 12px;
+    text-decoration-line: none;
+    color: orange;
+    
+}
+
+    
+
+.imagem-um{
+    border: 1px solid red;
+    
+}
+
+.imagem-literal{
+    margin: 15px 0 15px 0;
+}
+
+body{
+    font-family: 'Lobster';
+    background: rgb(54, 50, 44)
+}
